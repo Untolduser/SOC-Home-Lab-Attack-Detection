@@ -1,3 +1,0 @@
-index=sysmon EventCode=3
-| search DestinationPort=4444 OR DestinationIp=192.168.56.11
-| table _time, Image, SourceIp, DestinationIp, DestinationPort
