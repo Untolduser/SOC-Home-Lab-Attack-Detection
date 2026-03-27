@@ -80,7 +80,7 @@ http://192.168.56.11:9999
 
 * Downloaded malicious file: `resume.pdf.exe`
 
-![Payload Delivery](screenshots/payload_delivery.png)
+![Payload Delivery](screenshots/Payload_Delivery.png)
 
 ---
 
@@ -90,7 +90,7 @@ http://192.168.56.11:9999
 * Reverse connection established to attacker machine
 * Meterpreter session opened in Metasploit
 
-![Reverse Shell](screenshots/reverse_shell_execution.png)
+![Reverse Shell](screenshots/Reverse_Shell_Execution.png)
 
 ---
 
