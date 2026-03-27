@@ -132,11 +132,11 @@ index=sysmon EventCode=3
 
 ### 📥 Payload Delivery
 
-![Payload Delivery](screenshots/payload_delivery.png)
+![Payload Delivery](screenshots/Payload_Delivery.png)
 
 ### 💀 Reverse Shell Execution
 
-![Reverse Shell](screenshots/reverse_shell_execution.png)
+![Reverse Shell](screenshots/Reverse_Shell_Execution.png)
 
 ### 🎯 Metasploit Handler
 
